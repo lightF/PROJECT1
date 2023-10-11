@@ -1,0 +1,33 @@
+{"penson_product":[
+    {	
+        "a_wkimg":"./img/hotel_01.jpg",
+        "a_wktitle":"[강원 평창군] 한화리조트 평창",
+        "a_wkpd":"165600"
+    },
+    {	 
+        "a_wkimg":"./img/hotel_02.jpg",
+        "a_wktitle":"[강원 평창군] 휘닉스 평창",
+        "a_wkpd":"162000"
+    },
+    {	 
+        "a_wkimg":"./img/hotel_03.jpg",
+        "a_wktitle":"[제주시] 한화리조트 제주",
+        "a_wkpd":"146400"
+    },
+   {	 
+    "a_wkimg":"./img/hotel_04.jpg",
+    "a_wktitle":"[제주시] 금호제주 리조트",
+    "a_wkpd":"107000"
+    },
+    {	
+        "a_wkimg":"./img/hotel_05.jpg",
+        "a_wktitle":"[경남 거제시] 소노캄 거제",
+        "a_wkpd":"180000"
+       },
+   
+   {	
+    "a_wkimg":"./img/hotel_06.jpg",
+    "a_wktitle":"[충남 보령시] 보령베이스 리조트",
+    "a_wkpd":"140000"
+    }
+]}
